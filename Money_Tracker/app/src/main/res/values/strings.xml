@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="Data">Data</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Settings">Settings</string>
+    <string name="LogOut">Log Out</string>
+    <string name="profile">Profile</string>
+</resources>
